@@ -1,1 +1,2 @@
-# Aplicaci¢n Web Interactiva - Sprint 7 
+# Aplicaci√≥n Web Interactiva - Sprint 7
+
