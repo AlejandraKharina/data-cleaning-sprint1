@@ -33,6 +33,16 @@ Soy estudiante de **Análisis de Datos** en TripleTen y una profesional creativa
 
 ## Proyectos por Sprint
 
+### **Notebooks Renderizados**
+
+- [Sprint 1: Limpieza de Datos](https://nbviewer.org/github/AlejandraKharina/portafolio_alejandra_frias.io/blob/main/sprint1_cleaning/data_cleaning_sprint1.ipynb)
+- [Sprint 2: Análisis Exploratorio](https://nbviewer.org/github/AlejandraKharina/portafolio_alejandra_frias.io/blob/main/sprint2_exploratory/eda_sprint2.ipynb)
+- [Sprint 3: Wrangling de Datos](https://nbviewer.org/github/AlejandraKharina/portafolio_alejandra_frias.io/blob/main/sprint3_data_wrangling/wrangling_sprint3.ipynb)
+- [Sprint 4: Visualización de Datos](https://nbviewer.org/github/AlejandraKharina/portafolio_alejandra_frias.io/blob/main/sprint4_visualization/instacart_visualization_sprint4.ipynb)
+- [Sprint 5: Análisis Estadístico](https://nbviewer.org/github/AlejandraKharina/portafolio_alejandra_frias.io/blob/main/sprint5_statistical/statistical_analysis_sprint5.ipynb)
+- [Sprint 6: Ventas de Videojuegos](https://nbviewer.org/github/AlejandraKharina/portafolio_alejandra_frias.io/blob/main/sprint6_video_games_sales/video_games_sales_analysis_sprint6.ipynb)
+
+
 ### **Sprint 1: Introducción a Python y Conceptos Básicos**
 - **Objetivo:** Evaluar la calidad de los datos y preparar una muestra para análisis.
 - **Tareas realizadas:**
