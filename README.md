@@ -86,14 +86,38 @@ Soy estudiante de **Análisis de Datos** en TripleTen y una profesional creativa
   - Documentación del proceso de modelado.
 
 ### **Sprint 7: Aplicación Web Interactiva**
-- **Objetivo:** Crear una aplicación web para presentar los resultados del análisis.
-- **Tareas realizadas:**
-  - Desarrollo de una interfaz web usando HTML, CSS y Flask.
-  - Integración de gráficos interactivos con Plotly.
-  - Despliegue en plataformas como Heroku o GitHub Pages.
-  - **Enlaces relevantes:**
-    - 🔗 [Repositorio en GitHub](https://github.com/AlejandraKharina/car-dashboard.git)
-    - 🔗 [Prueba la App](https://car-dashboard-os1l.onrender.com/)
+
+**Descripción:**
+Esta aplicación web interactiva permite explorar, filtrar y visualizar datos de anuncios de venta de coches de manera dinámica y fácil de usar. Desarrollada con Streamlit y Plotly, ofrece gráficos intuitivos, métricas clave y la opción de descargar los datos filtrados para análisis adicionales.
+
+**Funcionalidades Principales**
+
+- **Filtros Interactivos**
+  - Filtra los datos por rango de precios y kilometraje utilizando controles deslizantes intuitivos.
+  - Analiza solo la información relevante para tus necesidades.
+
+- **Indicadores Clave (KPIs)**
+  - Total de vehículos disponibles.
+  - Precio promedio de los vehículos.
+  - Kilometraje promedio de los anuncios filtrados.
+
+- **Visualizaciones Dinámicas**
+  - Histogramas: Distribución de cualquier columna seleccionada (ej. precios, kilometraje).
+  - Gráficos de dispersión: Relación entre dos columnas seleccionadas (ej. precio vs kilometraje).
+  - Tendencia de precios: Gráfico de líneas que muestra cómo varía el precio promedio a lo largo del tiempo (por año de fabricación).
+
+- **Resumen Estadístico**
+  - Genera un análisis estadístico rápido con métricas como promedio, desviación estándar, mínimos y máximos.
+
+- **Descarga de Datos**
+  - Exporta los datos filtrados en formato CSV para realizar análisis adicionales fuera de la aplicación.
+
+- **Interpretación Automática de Resultados**
+  - Muestra un breve texto interpretativo sobre los gráficos seleccionados para facilitar la comprensión de los resultados.
+
+🔗 **Visitalos aqui ⬇️**
+- 👍 **Visitando mi repositorio en GitHub:** [Car Dashboard](https://github.com/AlejandraKharina/car-dashboard.git)
+- 👍 **Para probar mi app en Streamlit:** [Car Dashboard App](https://car-dashboard-os1l.onrender.com/)
 
 ---
 
@@ -104,7 +128,7 @@ Soy estudiante de **Análisis de Datos** en TripleTen y una profesional creativa
 - **Programación en Python:** Uso de bibliotecas como pandas, numpy, matplotlib, seaborn y plotly.
 - **SQL:** Escritura de consultas avanzadas y manejo de bases de datos.
 - **Visualización de datos:** Diseño de gráficos y dashboards.
-- **Desarrollo web:** Creación de aplicaciones web con HTML, CSS y Flask.
+- **Desarrollo web:** Creación de aplicaciones web con HTML, CSS, GitHub, Render y Streamlit.
 
 ---
 
@@ -112,8 +136,8 @@ Soy estudiante de **Análisis de Datos** en TripleTen y una profesional creativa
 
 - **Lenguajes:** Python, SQL, HTML, CSS.
 - **Herramientas:** Jupyter Notebooks, VS Code, Git, GitHub.
-- **Librerías:** pandas, numpy, matplotlib, seaborn, plotly, Flask.
-- **Plataformas:** GitHub Pages, Heroku.
+- **Librerías:** pandas, numpy, matplotlib, seaborn, plotly, Streamlit.
+- **Plataformas:** GitHub Pages, Streamlit Cloud.
 
 ---
 
@@ -139,4 +163,5 @@ Si tienes alguna pregunta o quieres colaborar en proyectos de análisis de datos
 ---
 
 ¡Gracias por visitar mi portafolio! Espero que te inspire y te ayude a conocer más sobre mi trabajo en análisis de datos.
+
 
