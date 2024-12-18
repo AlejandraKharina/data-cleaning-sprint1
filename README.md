@@ -2,7 +2,7 @@
 
 ¡Bienvenidos a mi portafolio! Este repositorio contiene los proyectos que he desarrollado durante mi proceso de formación como Analista de Datos en **TripleTen**. A lo largo de varios sprints, he aplicado conocimientos y herramientas esenciales para la limpieza, análisis y visualización de datos. Este portafolio refleja mi compromiso con la mejora continua y mi pasión por transformar datos en información valiosa. **Estaré actualizando este portafolio hasta el término de mis estudios.**
 
-## Ídice de Contenidos
+## Índice de Contenidos
 
 1. [🌟 Sobre mí 🌟](#sobre-mí)
 2. [Proyectos por Sprint](#proyectos-por-sprint)
@@ -126,3 +126,4 @@ Si tienes alguna pregunta o quieres colaborar en proyectos de análisis de datos
 ---
 
 ¡Gracias por visitar mi portafolio! Espero que te inspire y te ayude a conocer más sobre mi trabajo en análisis de datos.
+
