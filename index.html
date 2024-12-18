@@ -13,10 +13,27 @@
             color: #333;
         }
         header {
-            background-color: #4CAF50;
+            background-color: #343a40;
             color: white;
-            text-align: center;
-            padding: 1em 0;
+            padding: 1em;
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+        }
+        .header-content {
+            max-width: 70%;
+        }
+        .profile-pic {
+            width: 100px;
+            height: 100px;
+            border-radius: 50%;
+            overflow: hidden;
+            border: 2px solid white;
+        }
+        .profile-pic img {
+            width: 100%;
+            height: 100%;
+            object-fit: cover;
         }
         main {
             padding: 2em;
@@ -32,27 +49,41 @@
             margin-bottom: 1em;
             box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
         }
+        .proyecto h3 {
+            margin: 0 0 0.5em 0;
+        }
         a {
-            color: #4CAF50;
+            color: #007bff;
             text-decoration: none;
         }
         a:hover {
             text-decoration: underline;
         }
         footer {
-            background-color: #333;
+            background-color: #343a40;
             color: white;
             text-align: center;
             padding: 1em 0;
             margin-top: 2em;
         }
+        footer a {
+            color: #f1f1f1;
+        }
+        footer a:hover {
+            text-decoration: underline;
+        }
     </style>
 </head>
 <body>
     <header>
-        <h1>Portafolio de Alejandra Kharina</h1>
-        <h2>Data Analyst Student | SAP Consultant</h2>
-        <p>Transformando datos en decisiones estratégicas mediante Python, SQL y visualización de datos.</p>
+        <div class="header-content">
+            <h1>Portafolio de Alejandra Kharina</h1>
+            <h2>Data Analyst Student | SAP Consultant</h2>
+            <p>Transformando datos en decisiones estratégicas mediante Python, SQL y visualización de datos.</p>
+        </div>
+        <div class="profile-pic">
+            <img src="tu-foto.jpg" alt="Foto de Alejandra Kharina">
+        </div>
     </header>
 
     <main>
