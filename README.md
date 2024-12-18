@@ -17,7 +17,7 @@
 
 Soy estudiante de **Análisis de Datos** en TripleTen y una profesional creativa, adaptable y multifacética con amplia experiencia en ventas, atención al cliente y terapias alternativas. Poseo habilidades tecnológicas avanzadas, pensamiento crítico y un fuerte compromiso con la mejora continua. Mi objetivo es ofrecer resultados excepcionales, colaborar con equipos y superar mis propios estándares cada día. Puedes ver mi última colaboración en el modelaje con el vestido de novia en **MARCELO CHIC spring 2025** en el [artículo de la revista Yucatán Magazine](https://yucatanmagazine.com/marcelo-chic-spring-2025-collection/).
 
-✨ **Experiencia destacada:**
+✨ **Experiencia de NORTE a SUR (plos completamente opuestos entre ellos, pero las cuales me definen):**
 
 - **Estilista, esteta y cosmetóloga.**
 - **Asesora de ventas** en sectores inmobiliarios, telefónicos, seguros y productos naturistas.
