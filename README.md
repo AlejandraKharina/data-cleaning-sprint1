@@ -41,7 +41,7 @@ Soy estudiante de **Análisis de Datos** en TripleTen y una profesional creativa
 - [Sprint 4: Visualización de Datos](https://nbviewer.org/github/AlejandraKharina/portafolio_alejandra_frias.io/blob/main/sprint4_visualization/instacart_visualization_sprint4.ipynb)
 - [Sprint 5: Análisis Estadístico](https://nbviewer.org/github/AlejandraKharina/portafolio_alejandra_frias.io/blob/main/sprint5_statistical/statistical_analysis_sprint5.ipynb)
 - [Sprint 6: Ventas de Videojuegos](https://nbviewer.org/github/AlejandraKharina/portafolio_alejandra_frias.io/blob/main/sprint6_video_games_sales/video_games_sales_analysis_sprint6.ipynb)
-
+- [Sprint 7: Aplicación Web](https://github.com/AlejandraKharina/car-dashboard.git)
 
 ### **Sprint 1: Introducción a Python y Conceptos Básicos**
 - **Objetivo:** Evaluar la calidad de los datos y preparar una muestra para análisis.
@@ -91,6 +91,9 @@ Soy estudiante de **Análisis de Datos** en TripleTen y una profesional creativa
   - Desarrollo de una interfaz web usando HTML, CSS y Flask.
   - Integración de gráficos interactivos con Plotly.
   - Despliegue en plataformas como Heroku o GitHub Pages.
+  - **Enlaces relevantes:**
+    - 🔗 [Repositorio en GitHub](https://github.com/AlejandraKharina/car-dashboard.git)
+    - 🔗 [Prueba la App](https://car-dashboard-os1l.onrender.com/)
 
 ---
 
